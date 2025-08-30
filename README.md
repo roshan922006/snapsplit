@@ -1,0 +1,1 @@
+SnapSplit is an AI-powered solution designed to simplify group expense management. Whether it’s friends splitting dinner, roommates managing rent, or teams sharing project costs, SnapSplit ensures accuracy, transparency, and fairness. With advanced OCR for receipts, NLP for text/voice inputs, and customizable split rules, it automates expense tracking and settlement.
